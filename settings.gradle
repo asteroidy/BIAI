@@ -1,0 +1,5 @@
+rootProject.name = 'CoursePrediction'
+include 'model'
+include 'view'
+include 'controller'
+
